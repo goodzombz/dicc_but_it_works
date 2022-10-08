@@ -1,0 +1,7 @@
+dictionary = {
+a : The first letter of the English alphabet, written in the Latin script.
+a : The first letter of the English alphabet, written in the Latin script.
+aa : (volcanology) A form of lava flow associated with Hawaiian-type volcanoes, consisting of basaltic rock, usually dark-colored with a jagged and loose, clinkery surface. Compare pahoehoe. [From 19th c.]
+aa : (volcanology) A form of lava flow associated with Hawaiian-type volcanoes, consisting of basaltic rock, usually dark-colored with a jagged and loose, clinkery surface. Compare pahoehoe. [From 19th c.]
+aaa : (medicine) Initialism of abdominal aortic aneurysm.
+aaa : (medicine) Initialism of abdominal aortic aneurysm.
